@@ -71,7 +71,10 @@ Ayrıca **IoE (Internet of Everything)** kapsamında araç, altyapı sistemleri,
 - **Salih Atiç**
 - **Yağız Enes Doğan**
 - **Yusuf Erdem Aykaç**
-- **
+- **Kumru Çelik**
+- **Mervan Oktan**
+- **Ahmet Taha Çetintaş**
+- **Batuhan Özkan**
 
 ---
 
