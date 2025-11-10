@@ -76,7 +76,8 @@ Ayrıca **IoE (Internet of Everything)** kapsamında araç, altyapı sistemleri,
 - **Ahmet Taha Çetintaş**
 - **Batuhan Özkan**
 - **Gülendam Oral**
-
+- **Tayfun Kaydı**
+- **Yusuf Kaymaz**
 ---
 
 ## 📚 Kaynaklar
